@@ -20,7 +20,5 @@ class Napi < Formula
 
   test do
     system bin/"napi.sh", "*"
-
-    assert_equal 0, $?.exitstatus
   end
 end
