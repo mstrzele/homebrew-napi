@@ -9,6 +9,7 @@ class Napi < Formula
   depends_on "ffmpeg" => :optional
   depends_on "media-info" => :optional
   depends_on "mplayer" => :optional
+  depends_on "coreutils" => :optional
 
   # conditional fallback to BSD stat for MAC OSX
   patch do
