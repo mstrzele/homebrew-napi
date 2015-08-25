@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mstrzele/homebrew-napi.png?label=ready&title=Ready)](https://waffle.io/mstrzele/homebrew-napi)
 # Homebrew Napi
 
 ## How do I install these formulae?
